@@ -95,3 +95,4 @@
 | Total | 45    |
 
 ### Zone Map
+![nb zon map](https://github.com/hectorwatts/NewBrunswickCovid19/blob/master/nb_zone_map.png)
